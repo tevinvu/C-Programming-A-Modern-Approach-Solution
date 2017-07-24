@@ -13,7 +13,7 @@ int main(void)
 }
 
 
-//run: make ch02ex01
-//     ./ch02ex01
+//run: make ch03ex01
+//     ./ch03ex01
 
 
